@@ -69,8 +69,6 @@ Follow these steps to set up and run the project:
   
 - **`/frontend`**: Contains the frontend code.
   - **`/components`**: React components.
-  - **`/pages`**: Page components.
-  - **`/styles`**: CSS or Tailwind styles.
   - **`index.tsx`**: Main entry point for the React application.
 
 
